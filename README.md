@@ -1,4 +1,4 @@
-# educNews – Aplicativo de Divulgação Acadêmica
+# educNews – Aplicativo de Divulgação de oportunidades e notícias Acadêmicas
 
 Este repositório contém a documentação e os artefatos relacionados ao desenvolvimento do **educNews**, um aplicativo mobile voltado à divulgação de notícias, editais, auxílios e outras oportunidades acadêmicas para estudantes universitários. O projeto tem como objetivo principal facilitar o acesso a informações relevantes que impactam diretamente a permanência e o desenvolvimento acadêmico dos discentes.
 
