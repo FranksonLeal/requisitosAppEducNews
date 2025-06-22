@@ -6,6 +6,7 @@ Este repositório contém a documentação e os artefatos relacionados ao desenv
 
 - 📋 **Requisitos do sistema**: funcionais e não funcionais;
 - 👤 **Histórias de usuário**, com base nas necessidades identificadas;
+- 👤 **Personas**, com o intuito de entender o público-alvo e suas necessdidades;
 - 🔄 **Diagramas de tarefas HTA (Hierarchical Task Analysis)**, que detalham as ações do usuário;
 - 🧠 **Modelagem MOlic**, representando as interações entre usuário e sistema com base em intenções e objetos de interface.
 
